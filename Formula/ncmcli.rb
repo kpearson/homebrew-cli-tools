@@ -8,6 +8,6 @@ class Ncmcli < Formula
   bottle :unneeded
 
   def install
-    bin.install "ncmcli"
+    bin.install "ncm"
   end
 end
